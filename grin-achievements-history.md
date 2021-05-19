@@ -23,3 +23,5 @@
 <hr>
 
 Please help keep this list up to date by sending a new pull-request.
+
+Join us on [Discord](https://discord.gg/5p4vCQY9km), [Telegram](https://t.me/grinprivacy), and [Keybase](https://keybase.io/team/grincoin)!
